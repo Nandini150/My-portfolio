@@ -14,4 +14,4 @@ Website Using HTML, CSS, SCSS and JavaScript, with a wonderful user interface.
 
 CHECK IT OUT HERE
 
-https://github.com/Nandini150/My-portfolio
+https://nandini-s.netlify.app/
